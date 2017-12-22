@@ -27,8 +27,8 @@ if __name__ == "__main__":
     
     k_lst = [30,60,90,120,150]
     fr_lst = [.2,.4,.6,.8,1]
-    k_lst = [100,120,150,180,200]
-    fr_lst = [1]
+    k_lst = [100]
+    fr_lst = [.1,.3,.5,1]
     n_song = 3
     for k in k_lst: 
         for fr in fr_lst:
