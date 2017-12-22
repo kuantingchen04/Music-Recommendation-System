@@ -9,10 +9,11 @@ Prepare the 1000K dataset from Last.fm, and also prepare word2vec song list.
 Word2vec song lists can be generated through LyricProcessor.py. 
 #### Run
 
-Run "python main_classic.py" to run traditional 
+Run `python main_classic.py` to run traditional 
 user-item collaborative algorithm. 
 
-Run "python main_kc.py" to run proposed hybrid method.
+Run `python main_cluster.py` to run proposed hybrid method.
+* Download sparse matrices from [here](https://drive.google.com/open?id=1xuS0K8Bm5YupoLVYffmIF42mtCQ_odcd)
 
 #### Methods
 
